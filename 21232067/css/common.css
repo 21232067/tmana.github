@@ -1,0 +1,206 @@
+@charset"UTF-8;
+/*全体設定*/
+*{margin :0;
+  padding:0;}
+body{background-image :;
+     background-size:cover;
+     color:;
+     font-family:"Helvetica Neue","Helvetica","Hiragino Sans",
+     "Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;}
+
+
+#header{
+
+ height:70px;
+ width:100%;
+ display: flex;
+ justify-content:space-between;
+ lign-items: center;
+ background:#333;
+ color:#fff;
+ text-align:center;
+ padding:20px;
+ font-family:"Times New Roman",serif;
+ font-size:100px;
+
+}
+
+h1{
+  font-size :1.2rem;
+
+}
+
+h2{
+  font-size :3.0rem;
+  text-align: center;
+  margin : 0 0 30px 0;
+    font-family:"Times New Roman",serif;
+    padding:20px;
+     grid-column:2/2;
+     grid-row: 2 / 5;
+     color:#000000;
+     background-color:#ababab;
+}
+
+p{
+  margin-top :20px;
+  text-align:center;
+}
+
+small{
+  background :#333;
+  color :#fff;
+  display : block;
+  text-align : center;
+  padding :20px;
+}
+#itemA {
+   padding:20px;
+    width:200px;
+    grid-row: 2 / 5;
+    text-align:center;
+    color:#000000;
+    background-color:#e2e2e2;
+    list-style: none;
+    border-radius:30px;
+    font-size:20px;
+    font-family: "Helvetica Neue","Helvetica","Hiragino Sans",
+"Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;
+margin:10px;
+}
+#itemB {
+   padding:20px;
+    width:200px;
+    grid-row: 2 / 5;
+    text-align:center;
+    color:#000000;
+    background-color:#e2e2e2;
+    list-style: none;
+    border-radius:30px;
+    font-size:20px;
+    font-family: "Helvetica Neue","Helvetica","Hiragino Sans",
+"Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;
+margin:10px;
+}
+#itemC {
+   padding:20px;
+    width:200px;
+    grid-row: 2 / 5;
+    text-align:center;
+    color:#000000;
+    background-color:#e2e2e2;
+    list-style: none;
+    border-radius:30px;
+    font-size:20px;
+    font-family: "Helvetica Neue","Helvetica","Hiragino Sans",
+"Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;
+margin:10px;
+}
+#itemD {
+   padding:20px;
+    width:200px;
+    grid-row: 2 / 5;
+    text-align:center;
+    color:#000000;
+    background-color:#e2e2e2;
+    list-style: none;
+    border-radius:30px;
+    font-size:20px;
+    font-family: "Helvetica Neue","Helvetica","Hiragino Sans",
+"Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;
+margin:10px;
+}
+#itemE {
+   padding:20px;
+    width:200px;
+    grid-row: 2 / 5;
+    text-align:center;
+    color:#000000;
+    background-color:#e2e2e2;
+    list-style: none;
+    border-radius:30px;
+    font-size:20px;
+    font-family: "Helvetica Neue","Helvetica","Hiragino Sans",
+"Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;
+margin:10px;
+}
+#itemF {
+   padding:20px;
+    width:200px;
+    grid-row: 2 / 5;
+    text-align:center;
+    color:#000000;
+    background-color:#e2e2e2;
+    list-style: none;
+    border-radius:30px;
+    font-size:20px;
+    font-family: "Helvetica Neue","Helvetica","Hiragino Sans",
+"Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;
+margin:10px;
+}
+#itemG {
+   padding:20px;
+    width:200px;
+    grid-row: 2 / 5;
+    text-align:center;
+    color:#000000;
+    background-color:#e2e2e2;
+    list-style: none;
+    border-radius:30px;
+    font-size:20px;
+    font-family: "Helvetica Neue","Helvetica","Hiragino Sans",
+"Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;
+margin:10px;
+}
+#itemH {
+   padding:20px;
+    width:200px;
+    grid-row: 2 / 5;
+    text-align:center;
+    color:#000000;
+    background-color:#e2e2e2;
+    list-style: none;
+    border-radius:30px;
+    font-size:20px;
+    font-family: "Helvetica Neue","Helvetica","Hiragino Sans",
+"Hiragino Kaku Gothic ProN","Arial","Yu Gothic","Meiryo",sans-serif;
+margin:10px;
+}
+#menu
+{text-align:center;}
+nav ul {
+        display : flex;
+        flex-flow: row nowrap;
+        justify-content: center;
+        list-style: none;
+        text-align:center;
+}
+nav li {
+        width :116px;
+        margin:0 2px;
+        list-style: none;
+        display:inline-block;
+        text-align:center;
+}
+nav li a {
+          display : block;
+          padding:10px 0;
+          border-radius:20px;
+          background-color:#3C464C;
+          color:#FFFFFF;
+          font-size:15px;
+          font-family:"Times New Roman",serif;
+          letter-spacing:0.125em;
+          text-decoration:none;
+          text-align:center;
+
+}
+nav li a:hover {
+          background-color :#FFFFFF;
+          color:#F3837D;
+          text-decoration:underline;
+#body
+{
+  margin:60px
+  text-align:center;
+}
